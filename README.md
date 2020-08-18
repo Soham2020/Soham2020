@@ -1,9 +1,9 @@
 ## Hi there, I am <a href="https://soham2020.github.io/html/">Soham Das</a> 👋
 
-<p>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Soham2020&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2020)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 
 - 🌱 I’m currently learning : Web-development and Compitetive Programming
