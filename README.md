@@ -6,8 +6,8 @@
 
 
 
-- 🌱 I’m currently learning : Web-development and Compitetive Programming
-- 👯 Interested on :  Android develepment
+- 🌱 I’m currently learning : Data-Structure and Algorithm  
+- 👯 Interested on :  Compitetive Programming
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
 
