@@ -1,8 +1,9 @@
 ## Hi there, I am <a href="https://soham2020.github.io/html/">Soham Das</a> 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Soham2020&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2020)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Soham2020&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
