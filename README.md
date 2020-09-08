@@ -6,7 +6,7 @@
 
 
 - 🌱 I’m currently learning : Data-Structure and Algorithm  
-- 👯 Interested on :  Compitetive Programming
+- 👯 Interested on :  Flutter
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
 
