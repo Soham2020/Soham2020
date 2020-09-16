@@ -1,4 +1,5 @@
-## Hi there, I am <a href="https://soham2020.github.io/html/">Soham Das</a> 👋
+## Hi there, I am Soham Das 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Soham2020&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2020)](https://github.com/anuraghazra/github-readme-stats)
 
