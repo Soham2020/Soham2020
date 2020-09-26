@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=Soham2020)
 
 - 🌱 I’m currently learning : Data-Structure and Algorithm  
 - 👯 Interested on :  Flutter
