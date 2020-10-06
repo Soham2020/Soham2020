@@ -1,5 +1,5 @@
 ## Hi there, I am Soham Das 👋
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Soham2020&count_private=true&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Soham2020&count_private=true&show_icons=true&theme=radical&hide_rank=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
