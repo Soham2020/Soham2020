@@ -10,20 +10,20 @@
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
 
-always:
-try{
-  your best and;
-  do{
-    code;
-  }while(you untill satisfy);
-  for(oppurtunity; comes; only once){
-    so grab it;
-  }
-  if(you fail)
-    throw "click, default code and start freshly";
-}catch(development){
-  mood twister;
-}
+always:<br>
+try{<br>
+  your best and;<br>
+  do{<br>
+    code;<br>
+  }while(you untill satisfy);<br>
+  for(oppurtunity; comes; only once){<br>
+    so grab it;<br>
+  }<br>
+  if(you fail)<br>
+    throw "click, default code and start freshly";<br>
+}catch(development){<br>
+  mood twister;<br>
+}<br>
 
 ## Lets Explore #
 
