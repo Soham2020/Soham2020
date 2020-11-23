@@ -6,7 +6,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Soham2020)
 
 - 🌱 I’m currently learning : Data-Structure and Algorithm  
-- 👯 Interested on :  Flutter
+- 👯 Interested on : MERN-Stack 
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
 
