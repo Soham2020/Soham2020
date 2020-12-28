@@ -9,22 +9,6 @@
 - 👯 Interested on : MERN-Stack 
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
-
-always:<br>
-try{<br>
-  your best and;<br>
-  do{<br>
-    code;<br>
-  }while(you untill satisfy);<br>
-  for(oppurtunity; comes; only once){<br>
-    so grab it;<br>
-  }<br>
-  if(you fail)<br>
-    throw "click, default code and start freshly";<br>
-}catch(development){<br>
-  mood twister;<br>
-}<br>
-
 ## Lets Explore #
 
 ## Languages and Tools 
@@ -39,6 +23,7 @@ try{<br>
 <img align="left" alt="react" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 
