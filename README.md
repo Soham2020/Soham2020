@@ -1,16 +1,14 @@
-## Hi there, I'm <a href="https://sohamdas02.netlify.app/">Soham</a> 👋
+## Hi there, I'm <a href="https://sohamdas02.netlify.app/">Soham</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Soham2020&count_private=true&show_icons=true&theme=radical&hide_rank=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soham2020&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://visitor-badge.glitch.me/badge?page_id=Soham2020)
+![Visitor Count](https://profile-counter.glitch.me/{Soham2020}/count.svg)
 
 - 🌱 I’m currently learning : Data-Structure and Algorithm  
 - 👯 Interested on : MERN-Stack 
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
 ## Lets Explore #
-
 ## Languages and Tools 
 
 <img align="left" alt="c++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
