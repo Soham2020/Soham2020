@@ -28,8 +28,23 @@
 <img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="git" width="35px" src="https://github.com/SandeepKrSuman/SandeepKrSuman/blob/main/assets/vscode.png" />
 <img align="left" alt="mongodb" width=35px src="https://th.bing.com/th/id/OIP.npbaGVOsBc-KVmASuCLHhAHaJS?pid=Api&rs=1"/>
+<img slign="left" alt="express" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<br />
+<p align="center">
+  <img align="left" alt="Heroku" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/heroku-5-569467.png" />
+  <img align="left" alt="Netlify" width="35px" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" />
+  <img align="left" alt="Figma" width="35px" src="https://4.bp.blogspot.com/-LiJZ5I8E7K8/XIe_GeI5glI/AAAAAAAAIuw/4Awu8j8r0P8TKBXzyxyslHEfplOlK9-6QCK4BGAYYCw/s1600/icon%2Bfigma%2Bvector.png" />
+  <img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img align="left" alt="Firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+  <img align="left" alt="JWT" width="40px" src="https://i2.wp.com/blog.logrocket.com/wp-content/uploads/2019/07/Screen-Shot-2018-10-11-at-1.40.06-PM.png?fit=1016%2C1034&ssl=1" />
+  <img align="left" alt="Material-ui" width="40px" src="https://material-ui.com/static/logo.svg" alt="Material-UI logo" />
+  <img align="left" align="tailwind-css" width="40px" src="https://github.com/aniftyco/awesome-tailwindcss/blob/master/assets/logo.svg" />
+  <br />
+</p>
+<br />
+<br />
 <br />
 
 
