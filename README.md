@@ -10,8 +10,8 @@
 
 <br />
 
-- 🌱 I’m currently learning : Data-Structure and Algorithm  
-- 👯 Interested on : MERN-Stack 
+- 🌱 I’m currently learning : Data-Structure and Algorithm and React-Native
+- 👯 Interested on : Cryptocurrency and Block-Chain
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
 ## Lets Explore #
