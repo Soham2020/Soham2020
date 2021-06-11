@@ -82,11 +82,6 @@
 </p>
   </tr>
 </table>
-<br />
-<br />
-<br />
-
-
 
 ### Connect with me
 
