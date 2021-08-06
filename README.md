@@ -10,11 +10,14 @@
 
 <br />
 
+![](https://activity-graph.herokuapp.com/graph?username=Soham2020&theme=chartreuse-dark	)
+
+<br/>
+
 - 🌱 I’m currently learning : Data-Structure and Algorithm and React-Native
 - 👯 Interested on : Cryptocurrency and Block-Chain
 - 📫 Contact : sohamdas8697@gmail.com / sohamdas.m6056@gmail.com
 - 😄 Pronouns: Das
-## Lets Explore #
 ## Languages and Tools 
 
 <table width="100">
@@ -85,9 +88,8 @@
 
 ### Connect with me
 
-[<img align="left" alt="LinkedIn | Soham Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/linkedin.svg" />](https://www.linkedin.com/in/soham-das-2a0467190/)
-[<img align="left" alt="Facebook | Soham Das" width="30px" src="https://github.com/simple-icons/simple-icons/raw/develop/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100011066049721)
-[<img align="left" alt="Email | Soham Das" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />](mailto:sohamdas8697@gmail.com)
+[<img align="left" alt="LinkedIn | Soham Das" width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/soham-das-2a0467190/)
+[<img align="left" alt="Facebook | Soham Das" width="130px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100011066049721)
 <br />
 
 
