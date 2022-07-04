@@ -10,8 +10,6 @@
 
 <br />
 
-![](https://activity-graph.herokuapp.com/graph?username=Soham2020&theme=chartreuse-dark	)
-
 <br/>
 
 - 🌱 I’m currently learning : Data-Structure and Algorithm
